@@ -1,0 +1,155 @@
+[20:39:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:39:59] [ServerMain/INFO]: Loaded 1290 recipes
+[20:39:59] [ServerMain/INFO]: Loaded 1399 advancements
+[20:40:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:40:00] [Server thread/INFO]: Loading properties
+[20:40:00] [Server thread/INFO]: Default game type: SURVIVAL
+[20:40:00] [Server thread/INFO]: Generating keypair
+[20:40:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:40:00] [Server thread/INFO]: Using default channel type
+[20:40:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:40:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:40:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:40:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:40:00] [Server thread/INFO]: Preparing level "world"
+[20:40:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:40:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:40:02] [Server thread/INFO]: Time elapsed: 501 ms
+[20:40:02] [Server thread/INFO]: Done (1.620s)! For help, type "help"
+[20:40:07] [Server thread/INFO]: C1trom[/149.200.51.67:58819] logged in with entity id 6 at (-113.25425705447219, 86.0, 809.2972161643632)
+[20:40:07] [Server thread/INFO]: C1trom joined the game
+[20:40:22] [Server thread/INFO]: lonelymous[/149.200.43.83:56437] logged in with entity id 380 at (-438.45353123169843, 79.0, -446.51086905716284)
+[20:40:22] [Server thread/INFO]: lonelymous joined the game
+[20:40:23] [Server thread/WARN]: UUID of added entity already exists: cjt['Enderman'/445, l='ServerLevel[world]', x=-445.55, y=42.00, z=-345.50]
+[20:40:25] [Server thread/INFO]: Gabi[/149.200.44.176:50616] logged in with entity id 689 at (-107.9832615361415, 31.0, -103.94924141191072)
+[20:40:25] [Server thread/INFO]: Gabi joined the game
+[20:41:03] [Server thread/INFO]: Pignu[/127.0.0.1:50430] logged in with entity id 1406 at (582.3300783752326, 63.0, 350.06185844560974)
+[20:41:03] [Server thread/INFO]: Pignu joined the game
+[20:42:52] [Server thread/INFO]: Gabi has made the advancement [Not Today, Thank You]
+[20:43:04] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:43:11] [Server thread/INFO]: Gabi hit the ground too hard while trying to escape Skeleton
+[20:43:12] [Server thread/WARN]: Gabi moved too quickly! 151.5111609195422,70.0,67.05738026052774
+[20:44:58] [Server thread/INFO]: [Not Secure] <lonelymous> -120 -300
+[20:47:30] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:47:31] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:47:31] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:47:32] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:47:32] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:48:46] [Server thread/INFO]: Pignu has made the advancement [Sweet Dreams]
+[20:50:37] [Server thread/INFO]: Gabi was slain by Zombie
+[20:50:39] [Server thread/WARN]: Gabi moved too quickly! 144.38474679703364,58.0,58.65717038378432
+[20:50:39] [Server thread/WARN]: Gabi moved too quickly! 144.38474679703364,58.0,58.65717038378432
+[20:50:39] [Server thread/WARN]: Gabi moved too quickly! 144.38474679703364,58.0,58.65717038378432
+[20:51:51] [Server thread/INFO]: Gabi was blown up by Creeper
+[20:51:53] [Server thread/WARN]: Gabi moved too quickly! -69.26179891608393,7.9953084995237305,-30.721481926575372
+[20:54:20] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[20:54:55] [Server thread/INFO]: Gabi was slain by Zombie
+[20:54:56] [Server thread/WARN]: Gabi moved too quickly! 124.41170048117155,4.0,-23.95394831112978
+[20:56:19] [Server thread/INFO]: lonelymous has made the advancement [Monster Hunter]
+[20:56:56] [Server thread/INFO]: Gabi was shot by Skeleton
+[20:57:59] [Server thread/INFO]: Pignu lost connection: Disconnected
+[20:57:59] [Server thread/INFO]: Pignu left the game
+[21:00:15] [Server thread/INFO]: Pignu[/127.0.0.1:50915] logged in with entity id 16808 at (-107.76934467557359, 69.5, 834.6999999880791)
+[21:00:15] [Server thread/INFO]: Pignu joined the game
+[21:02:01] [Server thread/INFO]: Gabi drowned
+[21:04:38] [Server thread/INFO]: lonelymous has made the advancement [Acquire Hardware]
+[21:04:59] [Server thread/INFO]: lonelymous has made the advancement [Isn't It Iron Pick]
+[21:06:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-111, y=119, z=-290} jd{x=-112, y=119, z=-291}
+[21:06:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-111, y=119, z=-290} jd{x=-112, y=119, z=-291}
+[21:10:04] [Server thread/INFO]: Pignu lost connection: Disconnected
+[21:10:04] [Server thread/INFO]: Pignu left the game
+[21:10:44] [Server thread/INFO]: [lonelymous: Gamerule playersSleepingPercentage is now set to: 1]
+[21:14:41] [Server thread/INFO]: [Not Secure] <Gabi> -117. -103
+[21:20:14] [Server thread/INFO]: [Not Secure] <Gabi> -125 -105
+[21:22:08] [Server thread/INFO]: Gabi fell from a high place
+[21:22:09] [Server thread/WARN]: Gabi moved too quickly! 158.24174286110025,12.0,25.37586509568355
+[21:24:52] [Server thread/INFO]: lonelymous has made the advancement [A Seedy Place]
+[21:26:58] [Server thread/INFO]: Pignu[/127.0.0.1:51547] logged in with entity id 34121 at (-110.0687199035077, 71.5, 833.3000000119209)
+[21:26:58] [Server thread/INFO]: Pignu joined the game
+[21:29:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-154, y=112, z=-295} jd{x=-155, y=112, z=-296}
+[21:29:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-149, y=113, z=-295} jd{x=-148, y=113, z=-295}
+[21:34:02] [Server thread/INFO]: Pignu has made the advancement [Acquire Hardware]
+[21:35:27] [Server thread/INFO]: Gabi has made the advancement [Fishy Business]
+[21:37:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-102, y=113, z=-249} jd{x=-103, y=112, z=-249}
+[21:40:53] [Server thread/INFO]: [Not Secure] <C1trom> -111 817
+[21:41:57] [Server thread/INFO]: Gabi was slain by Enderman
+[21:41:58] [Server thread/WARN]: Gabi moved too quickly! -34.45955278897206,7.0,-315.9227893519802
+[21:42:56] [Server thread/INFO]: Pignu lost connection: Disconnected
+[21:42:56] [Server thread/INFO]: Pignu left the game
+[21:44:59] [Server thread/INFO]: Gabi was slain by Enderman
+[21:45:00] [Server thread/WARN]: Gabi moved too quickly! -40.05750919921003,5.0,-313.80000001192093
+[21:54:31] [Server thread/INFO]: Pignu[/127.0.0.1:52228] logged in with entity id 55060 at (-116.97773117439979, 78.0, 834.6999999880791)
+[21:54:31] [Server thread/INFO]: Pignu joined the game
+[21:59:48] [Server thread/INFO]: Gabi was shot by Skeleton
+[21:59:49] [Server thread/WARN]: Gabi moved too quickly! -225.2854517358947,18.0,-199.56611546230758
+[21:59:51] [Server thread/INFO]: Gabi lost connection: Disconnected
+[21:59:51] [Server thread/INFO]: Gabi left the game
+[21:59:51] [Server thread/INFO]: [Not Secure] <C1trom> xd
+[22:00:00] [Server thread/INFO]: Gabi[/149.200.44.176:50839] logged in with entity id 59580 at (32.5, 82.0, -70.5)
+[22:00:00] [Server thread/INFO]: Gabi joined the game
+[22:02:34] [Server thread/INFO]: Gabi fell from a high place
+[22:02:35] [Server thread/WARN]: Gabi moved too quickly! -76.7656666905358,-22.0,222.5343981253758
+[22:03:11] [Server thread/INFO]: [Not Secure] <lonelymous> -150 120 -300
+[22:03:19] [Server thread/INFO]: [Not Secure] <Gabi> 20 -49
+[22:06:58] [Server thread/INFO]: Gabi has made the advancement [Sweet Dreams]
+[22:07:53] [Server thread/INFO]: Pignu has made the advancement [Isn't It Iron Pick]
+[22:09:28] [Server thread/INFO]: Pignu has made the advancement [Suit Up]
+[22:14:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:14:07] [Server thread/INFO]: Gabi was shot by Skeleton<--[HERE]
+[22:14:17] [Server thread/INFO]: [Not Secure] [Server] Gabi was shot by Skeleton
+[22:16:47] [Server thread/INFO]: [Not Secure] * lonelymous veri a faszát
+[22:17:02] [Server thread/INFO]: [Not Secure] * C1trom üvöltve okád
+[22:17:12] [Server thread/INFO]: [Not Secure] * lonelymous kocc
+[22:21:24] [Server thread/INFO]: Pignu has made the advancement [Hot Stuff]
+[22:21:42] [Server thread/INFO]: Pignu has made the advancement [Diamonds!]
+[22:22:49] [Server thread/INFO]: Pignu has made the advancement [Not Today, Thank You]
+[22:24:06] [Server thread/INFO]: lonelymous was shot by Skeleton
+[22:24:07] [Server thread/WARN]: lonelymous moved too quickly! -1.1995498068647663,89.0,9.199999988079071
+[22:26:07] [Server thread/INFO]: Gabi has made the advancement [Diamonds!]
+[22:28:02] [Server thread/INFO]: lonelymous has made the advancement [Diamonds!]
+[22:36:39] [Server thread/INFO]: Pignu has made the advancement [We Need to Go Deeper]
+[22:36:41] [Server thread/WARN]: C1trom moved too quickly! -1.1703700855623254,3.5009966402674735,9.41548565862206
+[22:36:41] [Server thread/WARN]: lonelymous moved too quickly! -0.1789717540364535,0.0,-10.256048039498495
+[22:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
+[22:36:44] [Server thread/INFO]: Pignu lost connection: Disconnected
+[22:36:44] [Server thread/INFO]: Pignu left the game
+[22:37:59] [Server thread/INFO]: lonelymous has made the advancement [Suit Up]
+[22:40:54] [Server thread/INFO]: Pignu[/127.0.0.1:53373] logged in with entity id 81262 at (-7.268202874475611, 42.0, 117.03307390318489)
+[22:40:54] [Server thread/INFO]: Pignu joined the game
+[22:41:28] [Server thread/INFO]: Pignu lost connection: Disconnected
+[22:41:28] [Server thread/INFO]: Pignu left the game
+[22:44:01] [Server thread/INFO]: Pignu[/127.0.0.1:53534] logged in with entity id 83020 at (-41.371456366960174, -52.0, 957.0307891478067)
+[22:44:01] [Server thread/INFO]: Pignu joined the game
+[22:51:12] [Server thread/INFO]: [C1trom: Set own game mode to Spectator Mode]
+[22:51:18] [Server thread/WARN]: C1trom moved too quickly! 37.317861984605656,-130.4943438141239,-1144.1282582597132
+[22:51:18] [Server thread/WARN]: C1trom moved too quickly! 37.317861984605656,-130.4943438141239,-1144.1282582597132
+[22:51:18] [Server thread/WARN]: C1trom moved too quickly! 37.317861984605656,-130.4943438141239,-1144.1282582597132
+[22:51:18] [Server thread/WARN]: C1trom moved too quickly! 37.317861984605656,-130.4943438141239,-1144.1282582597132
+[22:51:18] [Server thread/WARN]: C1trom moved too quickly! 37.317861984605656,-130.4943438141239,-1144.1282582597132
+[22:51:30] [Server thread/WARN]: C1trom moved too quickly! -119.22680007787031,65.25489412437264,35.622800359260964
+[22:51:46] [Server thread/WARN]: C1trom moved too quickly! 165.1991854125826,-49.50483214822846,1101.0349640933118
+[22:51:46] [Server thread/WARN]: C1trom moved too quickly! 165.1991854125826,-49.50483214822846,1101.0349640933118
+[22:51:46] [Server thread/WARN]: C1trom moved too quickly! 165.1991854125826,-49.50483214822846,1101.0349640933118
+[22:51:46] [Server thread/WARN]: C1trom moved too quickly! 165.1991854125826,-49.50483214822846,1101.0349640933118
+[22:51:49] [Server thread/INFO]: [C1trom: Set own game mode to Survival Mode]
+[22:51:57] [Server thread/INFO]: Pignu has made the advancement [A Seedy Place]
+[22:52:04] [Server thread/INFO]: C1trom has made the advancement [A Seedy Place]
+[22:53:54] [Server thread/INFO]: Gabi lost connection: Disconnected
+[22:53:54] [Server thread/INFO]: Gabi left the game
+[22:54:02] [Server thread/INFO]: C1trom lost connection: Disconnected
+[22:54:02] [Server thread/INFO]: C1trom left the game
+[23:04:42] [Server thread/INFO]: lonelymous lost connection: Disconnected
+[23:04:42] [Server thread/INFO]: lonelymous left the game
+[23:07:46] [Server thread/INFO]: Pignu lost connection: Disconnected
+[23:07:46] [Server thread/INFO]: Pignu left the game
+[23:07:54] [Server thread/INFO]: Stopping the server
+[23:07:55] [Server thread/INFO]: Stopping server
+[23:07:55] [Server thread/INFO]: Saving players
+[23:07:55] [Server thread/INFO]: Saving worlds
+[23:07:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:07:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:07:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
