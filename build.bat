@@ -1,0 +1,3 @@
+@echo off
+echo Starting Minecraft server...
+"C:\Program Files\Java\jdk-21\bin\java.exe" -Xmx2G -Xms2G -jar server.jar nogui
